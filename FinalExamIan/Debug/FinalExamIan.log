@@ -1,3 +1,0 @@
-﻿  FinalDialog.cpp
-C:\Users\Crazy\OneDrive\Desktop\College\WinPro Labs\FinalExamIan\FinalExamIan\FinalDialog.cpp(15,150): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
-  FinalExamIan.vcxproj -> C:\Users\Crazy\OneDrive\Desktop\College\WinPro Labs\FinalExamIan\Debug\FinalExamIan.exe
